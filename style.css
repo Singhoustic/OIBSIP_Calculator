@@ -6,7 +6,7 @@
 
 html,
 body {
-	background-color: black;
+	background: radial-gradient(#3144a3, #201e27);
 }
 
 .main {
